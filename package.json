@@ -14,9 +14,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "-": "^0.0.1",
     "@reduxjs/toolkit": "^1.9.5",
-    "firebase": "^10.12.3",
+    "firebase": "^10.14.1",
     "firebase-admin": "^12.2.0",
     "formik": "^2.4.6",
     "jodit": "^4.2.27",
